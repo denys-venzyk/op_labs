@@ -14,7 +14,7 @@ const fn = () => {
   obj1.name = 'Danya';
   obj2.name = 'Anya';
 
-  obj1 = { name: 'Jackson' };
+  obj1 = { name: 'Jackson' }; // eslint-disable-line
   obj2 = { name: 'Mickle' };
 };
 
